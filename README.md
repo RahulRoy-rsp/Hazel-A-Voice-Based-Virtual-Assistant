@@ -16,4 +16,3 @@ A Virtual Assistant built using Python that can perform tasks with your voice co
 
 ### [Click to see demo Usage](https://github.com/RahulRoy-rsp/Hazel-A-Voice-Based-Virtual-Assistant/blob/main/demoUsage.md) ### 
 
-### [For Software related Information](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/blob/main/Softwares/sofwares.md) ### 
