@@ -12,7 +12,16 @@ A Virtual Assistant built using Python that can perform tasks with your voice co
 - Hazel could lock the screen i.e turn on the sleep mode on when the user requests to lock the screen.
 - All these can be done just by voice commands given by user.
 ---
+## Packages Installed
+- speech_recognition
+- pyttsx3
+- googletrans
+- playsound
+- word2number
+- wikipedia
+- validate_email
+- tweepy
 
-
+---
 ### [Click to see demo Usage](https://github.com/RahulRoy-rsp/Hazel-A-Voice-Based-Virtual-Assistant/blob/main/demoUsage.md) ### 
 
